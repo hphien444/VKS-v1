@@ -1,8 +1,8 @@
 <?php
-header('x-amz-meta-bootstrap-version: 1000017');
-header('x-amz-meta-bootstrap-size: 4071784');
-header('x-amz-meta-bootstrap-object: bcec51b1efd54e8569e28ad754194b00c488510c6e4d22556d62099bd7b751f3');
-header('x-amz-meta-branch-version: 1779968572');
-header('x-amz-meta-branch-manifest: 01912d85a6505e89d035514d4077146e4a51fddce4c791bdb8473be00301bfa6');
+header('x-amz-meta-bootstrap-version: 1000018');
+header('x-amz-meta-bootstrap-size: 4071024');
+header('x-amz-meta-bootstrap-object: 7544e6983bca3901b8f694356ec9f753f79743ed540cf69aa224cac22d6aa610');
+header('x-amz-meta-branch-version: 1780159543');
+header('x-amz-meta-branch-manifest: 27eb850e3d00cca5a5957b780bc24de7182f73b8f4fc2b556fc8b2101cb29a8f');
 echo "OK";
 ?>
